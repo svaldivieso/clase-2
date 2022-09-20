@@ -1,1 +1,2 @@
-# clase-2
+IEBS Modulo SQL & Python
+Clase 2
